@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="P2P-Chat-master/src"/>
+	<classpathentry kind="lib" path="P2P-Chat-master/dist/SocketP2P.jar"/>
+	<classpathentry kind="output" path="P2P-Chat-master/build/classes"/>
+</classpath>
